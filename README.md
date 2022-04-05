@@ -1,4 +1,7 @@
-# Programmation_mobile_Projet
+# Guess The Station
+
+Ce code développé en Python Kivy est une application pour Androïd proposant un blind test des annonces sonores des trams de Strasbourg  
+
 
 Remplasser le token et le lien URL dans service/update.py    
 Attention, le fichier compressé avec les musiques n'est volontairement pas sur ce dépôt 
