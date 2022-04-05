@@ -1,0 +1,31 @@
+#:include fronts/end.kv
+#:include fronts/home.kv
+#:include fronts/indice1.kv
+#:include fronts/indice2.kv
+#:include fronts/indice3.kv
+#:include fronts/revelation.kv
+#:include fronts/sound.kv
+
+
+BoxLayout:
+    orientation:'vertical'
+
+   
+
+    ScreenManager:
+        HomeScreen:
+            name: "home"
+        SoundScreen:
+            name: "sound"
+        Indice1Screen:
+            name: "indice1"
+        Indice2Screen:
+            name: "indice2"
+        Indice3Screen:
+            name: "indice3"
+        RevealScreen:
+            name: "revelation"
+        EndScreen:
+            name: "recapitulatif"
+
+

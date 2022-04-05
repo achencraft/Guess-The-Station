@@ -1,0 +1,10 @@
+.buildozer
+include/music
+lib
+lib64
+share
+bin
+pages/__pycache__
+pyvenv.cfg
+data
+cache/*.png
