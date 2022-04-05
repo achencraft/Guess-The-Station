@@ -1,7 +1,7 @@
 # Programmation_mobile_Projet
 
-Remplasser le token et le lien URL dans service/update.py  
-
+Remplasser le token et le lien URL dans service/update.py    
+Attention, le fichier compressé avec les musiques n'est volontairement pas sur ce dépôt 
 
 
 Installation
